@@ -4,7 +4,7 @@ Welcome to the world's first potato-powered groundbreaking computer-exploding gi
 ## Roadmap
 - [x] Create programming hell
 - [x] Make unreadable mess
-- [ ] Integrate pointless OpenAI wrapper
+- [x] Integrate pointless OpenAI wrapper
 - [ ] Raise 5 million billion dollars in funding that will immediately be spent on "Other costs" with no explanation or actual reason
 
 ## How to deploy in production
